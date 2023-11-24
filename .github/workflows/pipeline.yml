@@ -1,7 +1,6 @@
 
 
-name: Bild and test
-
+name: Bild, test and deploy
 on:
   push:
     branches: [ "main" ]
